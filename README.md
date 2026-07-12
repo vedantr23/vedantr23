@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m an engineering student passionate about building real-world, scalable software solutions. <br>Smart India Hackathon Winner. I enjoy solving problems from first principles, working on backend-heavy systems, <br>and continuously improving my skills through data structures, system design and hands-on projects.<br><br>I’m currently working on<br>End-to-end Object Storage System (design + implementation)<br>Strengthening Data Structures & Algorithms (FANG-level) using Java<br>Backend-focused projects with a scalability mindset<br><br>Ask me about<br><br>Java & DSA problem-solving strategies<br>Backend architecture basics<br>Turning student projects into industry-ready systems<br>How to win Hackathons
 
 
